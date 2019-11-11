@@ -1,3 +1,5 @@
+# inspired from following stackoverflow post - https://stackoverflow.com/questions/7908636/possible-to-make-labels-appear-when-hovering-over-a-point-in-matplotlib
+
 import matplotlib.pyplot as plt
 import numpy as np
 
