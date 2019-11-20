@@ -3,6 +3,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+cmap = plt.cm.RdYlGn
+
 x = np.random.rand(15)
 y = np.random.rand(15)
 names = np.array(list("ABCDEFGHIJKLMNO"))
